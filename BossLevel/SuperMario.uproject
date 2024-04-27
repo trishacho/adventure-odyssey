@@ -7,10 +7,12 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
+			"TargetAllowList": [
 				"Editor"
 			]
 		},
 		{
+			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
 		{
