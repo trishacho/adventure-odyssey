@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s\\documents\\unreal projects\\supermario\\intermediate\\source\\supermario.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s\\documents\\unreal projects\\supermario\\intermediate\\build\\win64\\supermario\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\s\\documents\\unreal projects\\supermario\\intermediate\\build\\win64\\unrealgame\\development\\supermario\\definitions.supermario.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
